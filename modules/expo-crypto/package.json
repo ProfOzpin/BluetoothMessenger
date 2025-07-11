@@ -1,0 +1,12 @@
+
+{
+  "name": "expo-crypto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A native module for encryption",
+  "private": true,
+  "expo": {
+    "type": "module",
+    "cpp": "./cpp"
+  }
+}
